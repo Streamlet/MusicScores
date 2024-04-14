@@ -41,12 +41,12 @@
 
 \parallelMusic C_RH,C_LH {
   d4. c8 a,4 a,8c8  d4. c8 e4 e8g8  a4  a8g8 e8d8c8d8  e2.       a,8c8 \break d4. c8 a,4 a,8c8  d4  c4 e2     d8e8 a,4 d8e8a,8g,8 a,2.       e8g8 \break |
-  f,4 c4 g,4 d4     a,4 e4 a4 e4    f,4 c4   g,4 d4    a,4 e4 a2       \break f,4 c4 g,4 d4     a,4 e4 a4 e4  d2       e2         a,4 e,4 a2      \break |
+  f,4 c4 g,4 d4     a,4 e4 a4 e4    f,4 c4   g,4 d4    a,4 e4 a2       \break f,4 c4 g,4 d4     a,4 e4 a4 e4  d2       e2         a,4 e4 a2      \break |
 }
 
 \parallelMusic D_RH,D_LH {
-  c'4. b8 e4  e8d8 c4  c8d8 e4 e8d8 c4  a8c'8 b8a8g8d8 e2.       e8g8 \break c'4. b8 e4  e8d8 c4  c8d8 e2     d8e8 a,4 d8e8a,8g,8 a,1 \break |
-  f,4 c4  g,4 d4   a,4 e4   a4 e4   f,4 c4    g,4 d4   a,4 e4 a2      \break f,4 c4  g,4 d4   a,4 e4   a4 e4  d2       e2         a,1 \break |
+  c'4. b8 e4  e8d8 c4  c8d8 e4 e8d8 c4  a8c'8 b8a8g8d8 e2.       e8g8 \break c'4. b8 e4  e8d8 c4  c8d8 e2     d8e8 a,4 d8e8a,8g,8 <a, e,>1 \break |
+  f,4 c4  g,4 d4   a,4 e4   a4 e4   f,4 c4    g,4 d4   a,4 e4 a2      \break f,4 c4  g,4 d4   a,4 e4   a4 e4  d2       e2         <a  c'>1 \break |
 }
 
 
